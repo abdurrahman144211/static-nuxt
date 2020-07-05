@@ -1,0 +1,37 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/abdurrahman/Desktop/nuxt/static-app/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_6c961161"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "/home/abdurrahman/Desktop/nuxt/static-app/pages/posts/index.vue",
+    "chunkName": "pages/posts/index",
+    "_name": "_66a283ea"
+  },
+  {
+    "name": "team",
+    "path": "/team",
+    "component": "/home/abdurrahman/Desktop/nuxt/static-app/pages/team.vue",
+    "chunkName": "pages/team",
+    "_name": "_57c8e58e"
+  },
+  {
+    "name": "posts-slug",
+    "path": "/posts/:slug",
+    "component": "/home/abdurrahman/Desktop/nuxt/static-app/pages/posts/_slug.vue",
+    "chunkName": "pages/posts/_slug",
+    "_name": "_64ebe2a2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/abdurrahman/Desktop/nuxt/static-app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e76427b4"
+  }
+]
